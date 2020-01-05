@@ -1,2 +1,5 @@
 .idea
 log/*
+
+# ignore the build file (executation file)
+main
